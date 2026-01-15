@@ -24,6 +24,8 @@
 }
 echo "<br>";
 echo "Autor: Pablo Prieto Diaz"."<br>";
+<a href="pizza.html">Torna a pizza html</a><br>
  ?>
- </body>
+ 
+</body>
 </html>
